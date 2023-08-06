@@ -2,7 +2,6 @@
 
 PlantPal is your ultimate destination for discovering and purchasing premium seeds. Our platform, powered by Spring Boot and Hibernate, offers a seamless and secure seed shopping experience. Elevate your gardening projects with a diverse selection of high-quality seeds, simplified navigation, and secure transactions.
 
-![PlantPal Banner](banner_image_url_here)
 
 ## Features
 
